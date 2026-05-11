@@ -1,0 +1,1 @@
+A simple payroll manager system designed in visual basic. The system involves features such as Logins, auto-computation of gross pay based on daily rates of employeses, generation of a payslip for individual employees and more, Which will be developed by 6 members as part of the case study requirements.
